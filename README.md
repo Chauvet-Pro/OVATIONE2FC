@@ -2,9 +2,6 @@
 
 ## Software Versions
 
-[V1.3.0 - Ovation E-2 FC](https://github.com/Chauvet-Pro/OVATIONE2FC/blob/96d2fbf05fa47502a738681867c51e34c0e9fc49/firmware/V1.3.0_06-03-24.zip)
-- Improved low-end dimming performance
-
 [V1.230801 - Ovation E-2 FC](https://github.com/Chauvet-Pro/OVATIONE2FC/blob/96d2fbf05fa47502a738681867c51e34c0e9fc49/firmware/V1.230801.zip)
 - Updated DMX control channels
 
