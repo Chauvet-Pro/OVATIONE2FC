@@ -15,6 +15,7 @@
 
 [V1.221006 - Ovation E-2 FC](https://github.com/Chauvet-Pro/OVATIONE2FC/blob/96d2fbf05fa47502a738681867c51e34c0e9fc49/firmware/V1.221006.zip)
 - Released software version
+  
 &nbsp;
 
 ## Software Update Instructions for V1.3.0.2
@@ -23,10 +24,10 @@ All Ovation E-2 FC fixtures must be updated to V1.3.0.2 first before upgrading t
 
 1. Place all the files from the [V1.3.0.2](https://github.com/Chauvet-Pro/OVATIONE2FC/blob/dc0657b88ee638a5fcbe1db2875c935c5136c4dd/firmware/V1.3.0.2.zip) folder into the USB flash drive.
 2. Power on the product and plug the USB flash drive into the USB port.
-3. Once the flash drive has been detected, upload the files No.3 (Ovation E-2FC_boot.chl) and No.4 (Ovation E-2FC_boot.chl).
+3. Once the flash drive has been detected, upload the files No.3 *(Ovation E-2FC_boot.chl)* and No.4 *(Ovation E-2FC_boot.chl)*.
 4. The display will show ***"Update"*** and the USB flash drive will flash slowly. This will take about 4-5 minutes.
 5. Once the upload is complete, the Menu Map will display the Information and USB Upload options.
-6. Upload files No.1 (Ovation E-2 FC_V1.3.0.2.chl) and No.2 (Ovation E-2 FC_V1.3.0.2). DO NOT turn off the power or disconnect the USB during the process. USB update can take several minutes to complete.
+6. Upload files No.1 *(Ovation E-2 FC_V1.3.0.2.chl)* and No.2 *(Ovation E-2 FC_V1.3.0.2)*. DO NOT turn off the power or disconnect the USB during the process. USB update can take several minutes to complete.
 7. When the update is complete, the fixture will automatically reboot.
 8. Go to Fixture Information on the product’s menu map and confirm the firmware revision.
 9. When the boot-up process is finished, restart the product.
