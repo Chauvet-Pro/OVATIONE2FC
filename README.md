@@ -4,7 +4,7 @@
 
 [V1.3.1 - Ovation E-2 FC](https://github.com/Chauvet-Pro/OVATIONE2FC/blob/dc0657b88ee638a5fcbe1db2875c935c5136c4dd/firmware/V1.3.1.zip)
 - Production software that bypassed the USB bug from V1.3.0.2
-- ***NOTE: Fixtures with V1.3.0.2 can update to this version via regular USB software update process. Fixtures with V1.230801 or earlier must be updated to V1.3.0.2 first before upgrading to this software version.***
+- ***NOTE: Fixtures with V1.3.0.2 can be updated to this version via regular USB software update process. Fixtures with V1.230801 or earlier must be updated to V1.3.0.2 first before upgrading to this software version.***
 
 [V1.3.0.2 - Ovation E-2 FC](https://github.com/Chauvet-Pro/OVATIONE2FC/blob/ec65dc5d73187f394da54d2d443a30821cb7ead2/firmware/V1.3.0.2.zip)
 - Fixed a bug that causes issues when updating the software from V1.230801 or V1.221006 to the latest version
